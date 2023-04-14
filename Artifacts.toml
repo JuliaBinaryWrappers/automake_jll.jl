@@ -1,0 +1,143 @@
+[[automake]]
+arch = "aarch64"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+os = "macos"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.aarch64-apple-darwin.tar.gz"
+[[automake]]
+arch = "aarch64"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "glibc"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.aarch64-linux-gnu.tar.gz"
+[[automake]]
+arch = "aarch64"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "musl"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.aarch64-linux-musl.tar.gz"
+[[automake]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "glibc"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.armv6l-linux-gnueabihf.tar.gz"
+[[automake]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "musl"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.armv6l-linux-musleabihf.tar.gz"
+[[automake]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "glibc"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.armv7l-linux-gnueabihf.tar.gz"
+[[automake]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "musl"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.armv7l-linux-musleabihf.tar.gz"
+[[automake]]
+arch = "i686"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "glibc"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.i686-linux-gnu.tar.gz"
+[[automake]]
+arch = "i686"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "musl"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.i686-linux-musl.tar.gz"
+[[automake]]
+arch = "i686"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+os = "windows"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.i686-w64-mingw32.tar.gz"
+[[automake]]
+arch = "powerpc64le"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "glibc"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.powerpc64le-linux-gnu.tar.gz"
+[[automake]]
+arch = "x86_64"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+os = "macos"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.x86_64-apple-darwin.tar.gz"
+[[automake]]
+arch = "x86_64"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "glibc"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.x86_64-linux-gnu.tar.gz"
+[[automake]]
+arch = "x86_64"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+libc = "musl"
+os = "linux"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.x86_64-linux-musl.tar.gz"
+[[automake]]
+arch = "x86_64"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+os = "freebsd"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.x86_64-unknown-freebsd.tar.gz"
+[[automake]]
+arch = "x86_64"
+git-tree-sha1 = "9480dcf0d85ea15ed6a75d1870cb896466944782"
+os = "windows"
+
+    [[automake.download]]
+    sha256 = "c3b2f16b465a9081943a4e42daae69f26e705b296b1fd56814bf9c5244955808"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.16.0+0/automake.v1.16.0.x86_64-w64-mingw32.tar.gz"

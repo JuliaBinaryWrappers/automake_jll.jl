@@ -1,6 +1,6 @@
 name = "automake_jll"
 uuid = "3f04dac9-704b-53bc-993e-1547579ac7a5"
-version = "1.16.0+0"
+version = "1.16.5+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

@@ -1,6 +1,6 @@
 [automake]
-git-tree-sha1 = "449c8b902f4ccebf02872599584a1e90921b14d5"
+git-tree-sha1 = "04f26307c01954926db10b87abab13f0833a3159"
 
     [[automake.download]]
-    sha256 = "e1c093f15eaf8c91b96121ef1cf4fcaae58a3d04e9a33492cedbd0ab75bba798"
-    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.19.0+0/automake.v1.19.0.any.tar.gz"
+    sha256 = "90ba99d95ee816e762e1b056f63467250913cf0ecd2a29accfff907e0b6fb38e"
+    url = "https://github.com/JuliaBinaryWrappers/automake_jll.jl/releases/download/automake-v1.20.0+0/automake.v1.20.0.any.tar.gz"
